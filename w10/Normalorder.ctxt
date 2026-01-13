@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Normalorder
+comment0.text=\n\ Write\ a\ description\ of\ class\ d\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=orderId\ customerName\ amount
+comment1.target=Normalorder(int,\ java.lang.String,\ double)
+comment2.params=
+comment2.target=double\ calculateFinalAmount()
+comment3.params=discountAmount
+comment3.target=double\ calculateFinalAmount(double)
+numComments=4
